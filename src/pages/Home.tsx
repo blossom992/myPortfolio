@@ -50,14 +50,14 @@ function Home() {
 
           <div className="mt-9 flex flex-wrap gap-4">
             <a
-              href="/work"
+              href="/Work"
               className="rounded-lg bg-purple-500 px-6 py-3 text-sm font-bold transition hover:-translate-y-1 hover:bg-purple-400"
             >
               See my work ↗
             </a>
 
             <a
-              href="/contact"
+              href="/Contact"
               className="rounded-lg border border-white/15 px-6 py-3 text-sm font-bold transition hover:-translate-y-1 hover:border-purple-400"
             >
               Let's connect ♡
