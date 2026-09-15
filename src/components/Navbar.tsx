@@ -51,6 +51,15 @@ function Navbar() {
             >
               Let's talk
             </Link>
+
+            <a
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-lg border border-purple-400/30 px-4 py-2 text-purple-300 transition hover:border-purple-300 hover:bg-purple-400/10 hover:text-purple-200"
+            >
+              Resume ↗
+            </a>
           </div>
 
           {/* Mobile menu button */}
@@ -102,6 +111,16 @@ function Navbar() {
               >
                 Let's talk
               </Link>
+
+              <a
+                href="/resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={closeMenu}
+                className="mt-2 rounded-xl border border-purple-400/30 px-4 py-3 text-sm font-semibold text-purple-300 transition hover:border-purple-300 hover:bg-purple-400/10 hover:text-purple-200"
+              >
+                Resume ↗
+              </a>
             </div>
           </div>
         )}
