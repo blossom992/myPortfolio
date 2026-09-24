@@ -12,7 +12,7 @@ function FinTrack() {
         { label: "Built with", value: "React · TypeScript · Tailwind" },
         { label: "Type", value: "Frontend project" },
       ]}
-      projectUrl="https://fin-track-chi.vercel.app/"
+      projectUrl="https://fin-track-lscr.vercel.app/"
       linkLabel="View live project ↗"
     />
   );

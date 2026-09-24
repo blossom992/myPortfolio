@@ -227,7 +227,7 @@ function Home() {
     </div>
 
    <a
-  href="https://fin-track-chi.vercel.app/"
+  href="https://fin-track-lscr.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
   className="mt-8 inline-flex text-sm font-bold text-purple-300 transition hover:text-white"
